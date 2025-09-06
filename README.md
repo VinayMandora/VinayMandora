@@ -3,7 +3,7 @@
 <h2>👨‍💻 AI/ML Projects:</h2>
 
 - <b>Advance Machine Learning on AutoCar Trader Dataset</b>
-  - https://github.com/VinayMandora/Advance-machine-Learning-On-AutoCar-Tarder-Data-set
+  - https://github.com/VinayMandora/Advance-machine-Learning-On-AutoCar-Tarder-Data-set.
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
